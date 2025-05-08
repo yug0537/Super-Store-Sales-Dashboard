@@ -12,3 +12,6 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Dashboard
 <img width="1028" alt="Screenshot 2025-05-08 at 17 14 30" src="https://github.com/user-attachments/assets/c20668af-0835-490f-a4ca-07391dbae757" />
 
+## Project Insights
+- 
+
